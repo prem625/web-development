@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> sprem splashes </title>
+  <style>
+    table,th,td{
+
+        border:2px solid rgb(78, 194, 0);
+    }
+    </style>
+</head>
+<body>
+  <h1> jerking techniques </h1>
+  <p>joiioih ohoih ijoij ijoijoihii uygy uho oijijpi oijij ommmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm mmmmmmmmmmmmmmmmmm <br>ijpj mmmmmmmmmmmmmmmmmmmmmmmkkkkkkkkkkkkkkkkkkkkkkkkkk kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk kkkkkkkkkkkkkkkkkkkk    kkkk ;         <br> <hr></p>
+<img src="https://www.google.com/imgres?q=gajar%20halwa&imgurl=https%3A%2F%2Fwww.sharmispassions.com%2Fwp-content%2Fuploads%2F2022%2F02%2FCarrotHalwa4.jpg&imgrefurl=https%3A%2F%2Fwww.sharmispassions.com%2Fcarrot-halwa-recipe-gajar-ka-halwa-recipe%2F&docid=cvh25VuLhEra3M&tbnid=l-BKk-GMWbNkTM&vet=12ahUKEwi0qovSu4yHAxVxwjgGHfG5A7MQM3oECBcQAA..i&w=720&h=1080&hcb=2&ved=2ahUKEwi0qovSu4yHAxVxwjgGHfG5A7MQM3oECBcQAA"
+height="400"
+width="400"
+alt="gajarella"
+>
+<p> <strong>Lorem</strong>ipsum dolor sit amet <small>consectetur</small>, adipisicing elit.<i> Earum, nostrum nisi, rerum magni maxime maiores hic ex,</i> <b>voluptatibu</b><br> magnam vero minima aspernatur ipsam reiciendis a consectetur beatae ipsum doloremque modi!</p>
+<br>
+<p><del>dleted text</del> </p>
+<br>
+<h1><mark>H<sub>2</sub></sub>0<sup>4</sup></mark></h1>
+<hr>
+<table>
+<tr>
+        <th> emp id </th>
+        <th>emp slary</th>
+        </tr>
+        <tr>
+            <td>007</td>
+            <td>54432</td>
+        </tr>
+        <tr>
+            <td>004</td>
+            <td>6543</td>
+        </tr>
+        <tr>
+            <td>0021</td>
+            <td>007</td>
+        </tr>
+        
+
+
+
+    </table>
+<h2>technical skills are</h2>
+<ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>React JS</li>
+    <li>Node JS</li>
+</ol>
+<h2>hobbies are</h2>
+<li>Masturbation</li>
+<li>drinking</li>
+<li>smoking weed</li>
+<li>kissing the vertical lips o a woman</li>
+</body>
+</html>>
